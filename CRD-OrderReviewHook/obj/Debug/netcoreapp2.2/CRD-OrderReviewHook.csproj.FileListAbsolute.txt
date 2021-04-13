@@ -1,0 +1,14 @@
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.csproj.CoreCompileInputs.cache
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.AssemblyInfoInputs.cache
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.AssemblyInfo.cs
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\bin\Debug\netcoreapp2.2\CRD-OrderReviewHook.deps.json
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\bin\Debug\netcoreapp2.2\CRD-OrderReviewHook.runtimeconfig.json
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\bin\Debug\netcoreapp2.2\CRD-OrderReviewHook.runtimeconfig.dev.json
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\bin\Debug\netcoreapp2.2\CRD-OrderReviewHook.dll
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\bin\Debug\netcoreapp2.2\CRD-OrderReviewHook.pdb
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.csprojAssemblyReference.cache
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.RazorAssemblyInfo.cache
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.RazorAssemblyInfo.cs
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.RazorTargetAssemblyInfo.cache
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.dll
+C:\Users\344672\source\repos\PriorAuth\CRD-OrderReviewHook\obj\Debug\netcoreapp2.2\CRD-OrderReviewHook.pdb
